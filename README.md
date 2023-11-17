@@ -1,2 +1,2 @@
 # rhe
-+62 Samsung GALAXY A13
++62 Samsung SM-J500G
